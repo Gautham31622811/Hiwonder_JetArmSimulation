@@ -1,0 +1,7 @@
+# JetArm Color Sorting Project - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+pybullet>=3.2.5
+numpy>=1.21.0
+scipy>=1.7.0
+matplotlib>=3.4.0
