@@ -1,4 +1,4 @@
-# JetArm Color Sorting Challenge
+# JetArm Color Sorting Simluation
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![PyBullet](https://img.shields.io/badge/PyBullet-3.2.5%2B-green)](https://pybullet.org/)
